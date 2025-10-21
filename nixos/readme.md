@@ -1,7 +1,7 @@
 
 
 # NixOS
-<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/nixos-logo.png" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/NixOS_logo.svg/2880px-NixOS_logo.svg.png" width="300">
 
 ### Konfigurasi lengkapnya bisa lihat di [sini](./qbittorrent.nix)
 

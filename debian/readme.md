@@ -1,7 +1,7 @@
 # Debian / Ubuntu
 
-<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/debian-logo.png" width="300">
-<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/ubuntu-logo.png" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/1280px-Debian-OpenLogo.svg.png" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/500px-Ubuntu-logo-2022.svg.png" width="300">
 
 ### Konfigurasi lengkapnya bisa lihat di sini
 
