@@ -86,6 +86,6 @@ Tambahkan lagi ini ke file configuration.nix anda, ini akan mengaktifkan tunnel 
 ```
 setelah rebuild, cek pada cloudflare zero trust anda apakah tunnel sudah aktif. Jika sudah bisa lanjut ke Cloudflare Dashboard
 
-### Kembali ke [Halaman Utama](https://github.com/leleteri/qbittorrent-nox)
+### Kembali ke [Halaman Utama](../)
 
 

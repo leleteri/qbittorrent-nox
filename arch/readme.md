@@ -141,4 +141,4 @@ sudo systemctl enable --now cloudflared
 
 Cek status tunnel pada dashboard Cloudflare Zero Trust Anda.
 
-### Kembali ke [Halaman Utama](https://github.com/leleteri/qbittorrent-nox)
+### Kembali ke [Halaman Utama](../)
