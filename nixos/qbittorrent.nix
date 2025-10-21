@@ -4,7 +4,7 @@
   # QBittorrent Settings
   services.qbittorrent.enable = true;
   services.qbittorrent = {
-    webUIPort = 8080  # Default Port, Bisa diubah ke port lain
+    webUIPort = 8080;  # Default Port, Bisa diubah ke port lain
   };
   users.users.qbittorrent = { # System User untuk qbittorent
     group = "qbittorrent";
