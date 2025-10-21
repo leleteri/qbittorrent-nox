@@ -12,9 +12,9 @@ Deskripsi singkat tentang aplikasi tsb.
 ## Instalasi & Konfigurasi
 
 ### Lihat panduan instalasi uintuk masing masing distro:
-- [Debian/Ubuntu](./tree/main/debian)
-- [Arch-Linux](./tree/main/arch)
-- [NixOS](./qbittorrent-nox/tree/main/nixos)
+- [Debian/Ubuntu](./debian)
+- [Arch-Linux](./arch)
+- [NixOS](./nixos)
 
 ### Melalui aplikasi GUI qBittorrent
 #### 1. Install qBittorrent
