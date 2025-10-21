@@ -3,7 +3,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Archlinux-logo-standard-version.svg/500px-Archlinux-logo-standard-version.svg.png" width="298">
 
-### Konfigurasi lengkapnya bisa lihat di [sini](https://www.google.com/search?q=github.com/leleteri/qbittorrent-nox/arch/PKGBUILD)
 
 ## Instalasi & Konfigurasi qBittorrent
 

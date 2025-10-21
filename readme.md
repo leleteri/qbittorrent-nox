@@ -1,6 +1,6 @@
 
 # Aplikasi Web "qBittorrent-noX"
-<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/qbittorrent-logo.svg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/1920px-New_qBittorrent_Logo.svg.png" width="300">
 
 ## Sekilas Tentang
 
