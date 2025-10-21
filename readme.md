@@ -1,3 +1,4 @@
+
 # Aplikasi Web "qBittorrent-noX"
 <img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/qbittorrent-logo.svg" width="300">
 
@@ -6,16 +7,22 @@
 Deskripsi singkat tentang aplikasi tsb.
 
 
-##Setup Tunneling di Cloudflare Zero Trust
+## Setup Tunneling di Cloudflare Zero Trust
 
 ## Instalasi & Konfigurasi
 
-Lihat panduan instalasi uintuk masing masing distro:
+### Lihat panduan instalasi uintuk masing masing distro:
 - [Debian/Ubuntu](https://github.com/leleteri/qbittorrent-nox/tree/main/debian)
 - [Arch-Linux](https://github.com/leleteri/qbittorrent-nox/tree/main/arch)
 - [NixOS](https://github.com/leleteri/qbittorrent-nox/tree/main/nixos)
 
-###Melalui aplikasi GUI qBittorrent
+### Melalui aplikasi GUI qBittorrent
+#### 1. Install qBittorrent
+Download qBittorrent di website resmi `qBittorrent`
+https://www.qbittorrent.org/download<br>
+Buka aplikasi `qBittorrent`, navigasi ke bar atas bagian `tools` dan pilih `settings/preferences`.
+
+Navigasikan ke opsi `WebUI` ... (tolong lanjutin)
 
 ## Cara Pemakaian
 
@@ -34,4 +41,4 @@ Lihat panduan instalasi uintuk masing masing distro:
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+https://search.nixos.org
