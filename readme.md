@@ -1,5 +1,5 @@
 # Aplikasi Web "qBittorrent-noX"
-<img src="https://github.com/leleteri/qbittorrent-nox/documentation/qbittorrent-logo.svg" width="300">
+<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/qbittorrent-logo.svg" width="300">
 
 ## Sekilas Tentang
 
@@ -11,9 +11,9 @@ Deskripsi singkat tentang aplikasi tsb.
 ## Instalasi & Konfigurasi
 
 Lihat panduan instalasi uintuk masing masing distro:
-- [Debian Based](https://github.com/leleteri/debian/readme.md)
-- [Arch Based](https://github.com/leleteri/arch/readme.md)
-- [NixOS](https://github.com/leleteri/arch/readme.md)
+- [Debian Based](https://github.com/leleteri/qbittorrnet-nox/tree/main/debian)
+- [Arch Based](https://github.com/leleteri/qbittorrent-nox/tree/main/arch)
+- [NixOS](https://github.com/leleteri/qbittorrent-nox/tree/main/nixos)
 
 ###Melalui aplikasi GUI qBittorrent
 

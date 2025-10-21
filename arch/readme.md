@@ -1,7 +1,7 @@
 
 # Arch Linux
 
-<img src="https://github.com/leleteri/qbittorrent-nox/documentation/arch-logo.png" width="300">
+<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/arch-logo.png" width="300">
 
 ### Konfigurasi lengkapnya bisa lihat di [sini](https://www.google.com/search?q=github.com/leleteri/qbittorrent-nox/arch/PKGBUILD)
 

@@ -1,7 +1,7 @@
 # Debian / Ubuntu
 
-<img src="https://github.com/leleteri/qbittorrent-nox/documentation/debian-logo.png" width="300">
-<img src="https://github.com/leleteri/qbittorrent-nox/documentation/ubuntu-logo.png" width="300">
+<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/debian-logo.png" width="300">
+<img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/ubuntu-logo.png" width="300">
 
 ### Konfigurasi lengkapnya bisa lihat di sini
 
