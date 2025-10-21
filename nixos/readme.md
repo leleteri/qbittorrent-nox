@@ -3,7 +3,7 @@
 # NixOS
 <img src="https://github.com/leleteri/qbittorrent-nox/blob/main/documentation/nixos-logo.png" width="300">
 
-### Konfigurasi lengkapnya bisa lihat di [sini](github.com/leleteri/qbittorrent-nox/blob/main/nixos/qbittorrent.nix)
+### Konfigurasi lengkapnya bisa lihat di [sini](./qbittorrent.nix)
 
 ## Instalasi & Konfigurasi qBittorrent
 
